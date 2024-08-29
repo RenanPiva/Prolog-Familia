@@ -4,7 +4,7 @@ Atividade 2 em Prolog para que você possa consultar se uma pessoa tem algum par
 
 ## Uso
 
-Para usar o sistema de gerenciamento de tarefas, siga as instruções abaixo:
+Para usar o sistema , siga as instruções abaixo:
 
 1. Abra o interpretador Prolog(Site: https://swish.swi-prolog.org/).
 2. Carregue o arquivo do projeto.
